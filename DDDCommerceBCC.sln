@@ -11,11 +11,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Application", "2-Applicat
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Presentaion", "1-Presentaion", "{30B1303D-819A-459D-B210-1B5E1311FEF5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDCommerceBCC.API", "DDDCommerceBCC.API\DDDCommerceBCC.API.csproj", "{2658BFF7-7DB7-4E34-8EE8-85E7474D7B19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDCommerceBCC.API", "API/DDDCommerceBCC.API\DDDCommerceBCC.API.csproj", "{2658BFF7-7DB7-4E34-8EE8-85E7474D7B19}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDCommerceBCC.Domain", "DDDCommerceBCC.Domain\DDDCommerceBCC.Domain.csproj", "{765AAF49-D749-452A-87AF-39B566009A71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDCommerceBCC.Domain", "API/DDDCommerceBCC.Domain\DDDCommerceBCC.Domain.csproj", "{765AAF49-D749-452A-87AF-39B566009A71}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDCommerceBCC.Infra", "DDDCommerceBCC.Infra\DDDCommerceBCC.Infra.csproj", "{430AF129-B73F-464E-9A43-975154631AE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDCommerceBCC.Infra", "API/DDDCommerceBCC.Infra\DDDCommerceBCC.Infra.csproj", "{430AF129-B73F-464E-9A43-975154631AE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
