@@ -1,0 +1,6 @@
+@DDDCommerceBCC.API_HostAddress = http://localhost:5016
+
+GET {{DDDCommerceBCC.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
