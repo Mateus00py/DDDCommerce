@@ -1,0 +1,11 @@
+C:\Users\Aula\Documents\navarro_aula\RabbitMQ02\Models\bin\Debug\net8.0\ModelsMQ.deps.json
+C:\Users\Aula\Documents\navarro_aula\RabbitMQ02\Models\bin\Debug\net8.0\ModelsMQ.dll
+C:\Users\Aula\Documents\navarro_aula\RabbitMQ02\Models\bin\Debug\net8.0\ModelsMQ.pdb
+C:\Users\Aula\Documents\navarro_aula\RabbitMQ02\Models\obj\Debug\net8.0\ModelsMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Documents\navarro_aula\RabbitMQ02\Models\obj\Debug\net8.0\ModelsMQ.AssemblyInfoInputs.cache
+C:\Users\Aula\Documents\navarro_aula\RabbitMQ02\Models\obj\Debug\net8.0\ModelsMQ.AssemblyInfo.cs
+C:\Users\Aula\Documents\navarro_aula\RabbitMQ02\Models\obj\Debug\net8.0\ModelsMQ.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Documents\navarro_aula\RabbitMQ02\Models\obj\Debug\net8.0\ModelsMQ.dll
+C:\Users\Aula\Documents\navarro_aula\RabbitMQ02\Models\obj\Debug\net8.0\refint\ModelsMQ.dll
+C:\Users\Aula\Documents\navarro_aula\RabbitMQ02\Models\obj\Debug\net8.0\ModelsMQ.pdb
+C:\Users\Aula\Documents\navarro_aula\RabbitMQ02\Models\obj\Debug\net8.0\ref\ModelsMQ.dll
